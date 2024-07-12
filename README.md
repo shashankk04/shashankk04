@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Shashank.</h1>
 <h3 align="center">👋 Hi there! I'm a passionate developer with a keen interest in machine learning, generative AI, and web development. I love building new and exciting projects that push the boundaries of technology. Let's create something amazing together!</h3>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding">
 
 - 🌱 I’m currently learning **Machine learning and GenAI**
 
@@ -10,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashank-kumar-a1194b250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashank-kumar-a1194b250/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/shashankk_2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shashankk_2004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shashankk04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shashankk04/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shashank-kumar-a1194b250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank-kumar-a1194b250" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shashankk_2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shashankk_2004" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shashankk04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashankk04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
