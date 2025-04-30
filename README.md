@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shashank.</h1>
-<h3 align="center">👋 Hi there! I'm a passionate developer with a keen interest in machine learning, generative AI, and web development. I love building new and exciting projects that push the boundaries of technology. Let's create something amazing together!</h3>
+<h3 align="center">👋 Hi there! I'm a passionate developer with a keen interest in web development, generative AI, and machine learning. I love building new and exciting projects that push the boundaries of technology. Let's create something amazing together!</h3>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding">
 
 - 🌱 I’m currently learning **Machine learning and GenAI**
